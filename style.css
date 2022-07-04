@@ -1,17 +1,21 @@
+:root{
+    font-size: 62.5%;
+}
+
 body{
   margin: 0;
   font-family: 'Poppins', sans-serif;
 }
 
 h1 {
-  width: 960px;
-  margin: 40px auto;
+  width: 96rem;
+  margin: 4rem auto;
   color:hsl(212, 95%, 40%);
 }
 
 nav {
-  width: 960px;
-  margin: 40px auto;
+  width: 96rem;
+  margin: 4rem auto;
 }
 
 ul {
@@ -20,13 +24,13 @@ ul {
 
 ul li {
   border-bottom: 1px solid rgb(214, 214, 214);
-  padding: 20px 0;
+  padding: 2rem 0;
 }
 
 ul li a {
   text-decoration: none;
   color: black;
-  font-size: 32px;
+  font-size: 3.2rem;
 }
 
 ul li a:hover{

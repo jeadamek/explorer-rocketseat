@@ -24,3 +24,8 @@ Projects developed during the Explorer course at [Rocketseat school](https://www
 * [Project 09 - SpaceCream](https://github.com/jeadamek/space-cream)
 
 ### Stage 4
+* [Project 10 - Logic and Algorithms - JavaScript](https://github.com/jeadamek/logic-and-algorithms-js)
+
+### Stage 5
+* [Project 11 - Jogo da Adivinhação](https://github.com/jeadamek/jogo-da-adivinhacao)
+* [Project 12 - FocusTimer 1.0](https://github.com/jeadamek/focustimer-1)

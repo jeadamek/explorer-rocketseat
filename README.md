@@ -25,7 +25,9 @@ Projects developed during the Explorer course at [Rocketseat school](https://www
 
 ### Stage 4
 * [Project 10 - Logic and Algorithms - JavaScript](https://github.com/jeadamek/logic-and-algorithms-js)
+* [Project 11 - Challenge 01](https://github.com/jeadamek/logic-and-algorithms-js-challenge-01)
+* [Project 12 - Challenge 02](https://github.com/jeadamek/logic-and-algorithms-js-challenge-02)
 
 ### Stage 5
-* [Project 11 - Jogo da Adivinhação](https://github.com/jeadamek/jogo-da-adivinhacao)
-* [Project 12 - FocusTimer 1.0](https://github.com/jeadamek/focustimer-1)
+* [Project 13 - Jogo da Adivinhação](https://github.com/jeadamek/jogo-da-adivinhacao)
+* [Project 14 - FocusTimer 1.0](https://github.com/jeadamek/focustimer-1)

@@ -32,3 +32,7 @@ Projects developed during the Explorer course at [Rocketseat school](https://www
 * [Project 13 - Jogo da Adivinhação](https://github.com/jeadamek/jogo-da-adivinhacao)
 * [Project 14 - FocusTimer 1.0](https://github.com/jeadamek/focustimer-1)
 * [Project 15 - FocusTimer 2.0](https://github.com/jeadamek/focustimer-2)
+* [Project 16 - FocusTimer 2.0 - Dark Mode](https://github.com/jeadamek/focustimer-2-dark)
+
+### Stage 6
+* [Project 17 -](#)

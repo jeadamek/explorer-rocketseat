@@ -29,10 +29,11 @@ Projects developed during the Explorer course at [Rocketseat school](https://www
 * [Project 12 - Challenge 02](https://github.com/jeadamek/logic-and-algorithms-js-challenge-02)
 
 ### Stage 5
-* [Project 13 - Jogo da Adivinhação](https://github.com/jeadamek/jogo-da-adivinhacao)
-* [Project 14 - FocusTimer 1.0](https://github.com/jeadamek/focustimer-1)
-* [Project 15 - FocusTimer 2.0](https://github.com/jeadamek/focustimer-2)
-* [Project 16 - FocusTimer 2.0 - Dark Mode](https://github.com/jeadamek/focustimer-2-dark)
+* [Project 13 - Divination Game](https://github.com/jeadamek/jogo-da-adivinhacao)
+* [Project 14 - BMI Calculator](https://github.com/jeadamek/bmi-calculator)
+* [Project 15 - FocusTimer 1.0](https://github.com/jeadamek/focustimer-1)
+* [Project 16 - FocusTimer 2.0](https://github.com/jeadamek/focustimer-2)
+* [Project 17 - FocusTimer 2.0 - Dark Mode](https://github.com/jeadamek/focustimer-2-dark)
 
 ### Stage 6
-* [Project 17 -](#)
+* [Project 18 - SPA Universe](#)

@@ -36,4 +36,4 @@ Projects developed during the Explorer course at [Rocketseat school](https://www
 * [Project 17 - FocusTimer 2.0 - Dark Mode](https://github.com/jeadamek/focustimer-2-dark)
 
 ### Stage 6
-* [Project 18 - SPA Universe](#)
+* [Project 18 - SPA Universe](https://github.com/jeadamek/SPA-universe)

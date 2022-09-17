@@ -20,7 +20,7 @@ Projects developed during the Explorer course at [Rocketseat school](https://www
 * [Project 05 - Form Mentoria](https://github.com/jeadamek/mentoria)
 * [Project 06 - Form Avalie a sua Mentoria](https://github.com/jeadamek/avalie-sua-mentoria)
 * [Project 07 - Responsive Page Exemple](https://github.com/jeadamek/responsive-exemple)
-* [Project 08 - Trabalhos | Projects](https://github.com/jeadamek/trabalhos-projects)
+* [Project 08 - Trabalhos | Projects](https://github.com/jeadamek/responsive-page-projects)
 * [Project 09 - SpaceCream](https://github.com/jeadamek/space-cream)
 
 ### Stage 4

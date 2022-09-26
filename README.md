@@ -19,7 +19,7 @@ Projects developed during the Explorer course at [Rocketseat school](https://www
 * [Project 04 - Form Crie seu Evento](https://github.com/jeadamek/crie-seu-evento)
 * [Project 05 - Form Mentoria](https://github.com/jeadamek/mentoria)
 * [Project 06 - Form Avalie a sua Mentoria](https://github.com/jeadamek/avalie-sua-mentoria)
-* [Project 07 - Responsive Page Exemple](https://github.com/jeadamek/responsive-exemple)
+* [Project 07 - Responsive Page Example](https://github.com/jeadamek/responsive-example)
 * [Project 08 - Trabalhos | Projects](https://github.com/jeadamek/responsive-page-projects)
 * [Project 09 - SpaceCream](https://github.com/jeadamek/space-cream)
 

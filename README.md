@@ -38,3 +38,6 @@ Projects developed during the Explorer course at [Rocketseat school](https://www
 ### Stage 6
 * [Project 18 - SPA Universe](https://github.com/jeadamek/SPA-universe)
 * [Project 19 - GitFav](https://github.com/jeadamek/gitFav)
+
+### Stage 8
+* [Project 20 - RocketMovies - Backend](https://github.com/jeadamek/rocketMovies_backend)

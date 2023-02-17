@@ -32,12 +32,11 @@ Projects developed during the Explorer course at [Rocketseat school](https://www
 * [Project 13 - Divination Game](https://github.com/jeadamek/jogo-da-adivinhacao)
 * [Project 14 - BMI Calculator](https://github.com/jeadamek/bmi-calculator)
 * [Project 15 - FocusTimer 1.0](https://github.com/jeadamek/focustimer-1)
-* [Project 16 - FocusTimer 2.0](https://github.com/jeadamek/focustimer-2)
-* [Project 17 - FocusTimer 2.0 - Dark Mode](https://github.com/jeadamek/focustimer-2-dark)
+* [Project 16 - FocusTimer 2.0 - Dark Mode](https://github.com/jeadamek/focustimer-2-dark
 
 ### Stage 6
-* [Project 18 - SPA Universe](https://github.com/jeadamek/SPA-universe)
-* [Project 19 - GitFav](https://github.com/jeadamek/gitFav)
+* [Project 17 - SPA Universe](https://github.com/jeadamek/SPA-universe)
+* [Project 18 - GitFav](https://github.com/jeadamek/gitFav)
 
 ### Stage 8
-* [Project 20 - RocketMovies - Backend](https://github.com/jeadamek/rocketMovies_backend)
+* [Project 19 - RocketMovies - Backend](https://github.com/jeadamek/rocketMovies_backend)

@@ -40,3 +40,6 @@ Projects developed during the Explorer course at [Rocketseat school](https://www
 
 ### Stage 8
 * [Project 19 - RocketMovies - Backend](https://github.com/jeadamek/rocketMovies_backend)
+
+### Stage 9
+* [Project 20 - RocketMovies - Frontend](https://github.com/jeadamek/rocketMovies_frontend)

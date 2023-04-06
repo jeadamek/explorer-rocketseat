@@ -5,7 +5,7 @@
 
 ## About
 
-Projects developed during the Explorer course at [Rocketseat school](https://www.rocketseat.com.br/). Click on the links bellow to access the repositories.
+These projects were developed during the Explorer course at [Rocketseat school](https://www.rocketseat.com.br/). Click on the links below to access the repositories.
 
 
 ## Projects
@@ -39,7 +39,9 @@ Projects developed during the Explorer course at [Rocketseat school](https://www
 * [Project 18 - GitFav](https://github.com/jeadamek/gitFav)
 
 ### Stage 8
-* [Project 19 - RocketMovies - Backend](https://github.com/jeadamek/rocketMovies_backend)
+* [Project 19 - RocketNotes - Backend]()
+* [Project 20 - RocketMovies - Backend](https://github.com/jeadamek/rocketMovies_backend)
 
 ### Stage 9
-* [Project 20 - RocketMovies - Frontend](https://github.com/jeadamek/rocketMovies_frontend)
+* [Project 21 - RocketNotes - Frontend](https://github.com/jeadamek/rocketNotes_frontend)
+* [Project 22 - RocketMovies - Frontend](https://github.com/jeadamek/rocketMovies_frontend)

@@ -5,8 +5,7 @@
 
 ## About
 
-These projects were developed during the Explorer course at [Rocketseat school](https://www.rocketseat.com.br/). Click on the links below to access the repositories.
-
+The following projects were created as part of the Explorer course at [Rocketseat school](https://www.rocketseat.com.br/). To access their respective repositories, please click on the links below.
 
 ## Projects
 

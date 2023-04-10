@@ -39,7 +39,7 @@ These projects were developed during the Explorer course at [Rocketseat school](
 * [Project 18 - GitFav](https://github.com/jeadamek/gitFav)
 
 ### Stage 8
-* [Project 19 - RocketNotes - Backend]()
+* [Project 19 - RocketNotes - Backend](https://github.com/jeadamek/rocketNotes_api)
 * [Project 20 - RocketMovies - Backend](https://github.com/jeadamek/rocketMovies_backend)
 
 ### Stage 9

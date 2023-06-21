@@ -1,11 +1,6 @@
-# Explorer Rocketseat
+# Explorer Rocketseat 🚀 
 
-
-
-
-## About
-
-The following projects were created as part of the Explorer course at [Rocketseat school](https://www.rocketseat.com.br/). To access their respective repositories, please click on the links below.
+Welcome to the Explorer Course Repository at [Rocketseat school](https://www.rocketseat.com.br/)! This repository houses a collection of web applications developed during the course. Each application has its dedicated repository, and you can access them by clicking on the links provided below. These projects highlight the practical implementation of skills and knowledge acquired throughout the course, demonstrating a diverse range of software development aspects. 
 
 ## Projects
 
@@ -44,3 +39,7 @@ The following projects were created as part of the Explorer course at [Rocketsea
 ### Stage 9
 * [Project 21 - RocketNotes - Frontend](https://github.com/jeadamek/rocketNotes_frontend)
 * [Project 22 - RocketMovies - Frontend](https://github.com/jeadamek/rocketMovies_frontend)
+
+### Final Project
+* [Food Explorer - Frontend](https://github.com/jeadamek/food-explorer-frontend)
+* [Food Explorer - Backend](https://github.com/jeadamek/food-explorer-api)
